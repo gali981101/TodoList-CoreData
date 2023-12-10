@@ -1,2 +1,2 @@
 # TodoList-CoreData
-todoList made with core data
+TodoList made with core data
